@@ -23,11 +23,7 @@ export const LandingPage = () => {
       <section>
         <br/>
         <hr/>
-        <h2>How it works</h2>
         
-        <video muted autoPlay loop src="videos/todo-app-demo.mp4"></video>
-        
-        <hr/>
         
         <br/>
         <p>Tired of juggling multiple tasks and struggling to stay on top of your daily commitments? Say goodbye to chaos and <span className="gradient-text">embrace the power of todo-lists.</span>  The simplest way to stay on track, anywhere. Whether you're at home, in the office, or on the go, this Todo-App keeps you in sync with your todos across all your devices.</p>
